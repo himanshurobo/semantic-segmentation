@@ -28,7 +28,7 @@ python createData.py
 
 Used to train the model and saved it into output folder
 ```
-python main.py ".here/cleanImages" "./here/output"
+python main.py ./here/cleanImages ./here/output
 ```
 It has following two optional arguments:
 ```
