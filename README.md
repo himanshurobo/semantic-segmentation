@@ -38,3 +38,5 @@ It has following two optional arguments:
 The datahandler module has two functions for creating datasets fron single and different folders.
 
 The repository also contains a JupyterLab file with the loss and metric plots as well as the sample prediction code.
+
+![Model Analysis](./here/output/graph.png)
